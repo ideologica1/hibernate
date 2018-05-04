@@ -1,0 +1,5 @@
+ru/siblion/configuration/BaseConfiguration.class
+ru/siblion/configuration/WebAppInitializer.class
+ru/siblion/entity/Item.class
+ru/siblion/configuration/WebConfig.class
+ru/siblion/controller/CrudController.class
